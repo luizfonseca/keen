@@ -1,0 +1,9 @@
+[package]
+name = "keen"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hyper = "1.4.0"
+tokio = "1.38.0"
+tower = "0.4.13"
